@@ -6,6 +6,7 @@ category:
 author: 
 tags: []
 summary: 
+math: true
 ---
 ## intro
 基础的$python$语法，用$def$创建函数,基本的循环分支结构略去不提了,高中学过了
