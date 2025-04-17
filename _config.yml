@@ -226,3 +226,5 @@ jekyll-archives:
     category: /categories/:name/
 
 math: true
+
+markdown: kramdown
